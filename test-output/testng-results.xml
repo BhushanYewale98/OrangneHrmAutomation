@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-03T13:35:42 IST" name="Default suite" finished-at="2022-08-03T13:35:58 IST" duration-ms="16096">
+    <groups>
+    </groups>
+    <test started-at="2022-08-03T13:35:42 IST" name="Default test" finished-at="2022-08-03T13:35:58 IST" duration-ms="16096">
+      <class name="com.testNGFrameWork.LogInTestCase">
+        <test-method signature="hrmlogin()[pri:0, instance:com.testNGFrameWork.LogInTestCase@6f46426d]" started-at="2022-08-03T13:35:42 IST" name="hrmlogin" finished-at="2022-08-03T13:35:58 IST" duration-ms="15992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hrmlogin -->
+      </class> <!-- com.testNGFrameWork.LogInTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
